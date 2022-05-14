@@ -1,2 +1,4 @@
 rootProject.name = "Android0801_Design_MVC"
 include ':0101_MVC'
+include ':0201_MVP'
+include ':0301_MVVM'
